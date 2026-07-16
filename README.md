@@ -4,6 +4,32 @@
 
 A Midjourney prompt engine that generates thousands of unique cosmic landscapes by swapping variables across 5 categories — Nebula Color, Mountain Type, Water Body, Atmosphere, and Art Style.
 
+## 🚀 Quick Start
+
+Pick one from each category. That's it:
+
+```
+Nebula:   Golden Stardust
+Mountain: Floating Islands
+Water:    Glowing River
+Atmosphere: Stellar Aurora
+Style:    Ethereal Glow
+```
+
+→ `/imagine Golden Stardust nebula swirling over Floating Islands with Glowing River at Stellar Aurora, Ethereal Glow, cosmic landscape --ar 16:9 --v 6`
+
+Each category has 10 options = **100,000 unique worlds**. 30 seconds from blank canvas to Midjourney-ready prompt.
+
+## 🎨 Example Outputs
+
+| Combo | Prompt |
+|-------|--------|
+| Amethyst + Crystal Cliffs + Mirror Lake + Twilight | `Amethyst Dream nebula swirling over Crystal Cliffs mountains with Mirror Lake at Twilight Glow` |
+| Emerald + Volcanic Spires + Waterfall Cascade + Storm Front | `Emerald Aurora nebula swirling over Volcanic Spires mountains with Waterfall Cascade at Storm Front` |
+| Solar + Floating Islands + Rainbow Lagoon + Double Sunset | `Solar Flare nebula swirling over Floating Islands with Rainbow Lagoon at Double Sunset` |
+
+Compatible with **Midjourney, DALL·E, Stable Diffusion, Adobe Firefly**, and any AI that takes text-to-image prompts.
+
 ## How It Works
 
 ```
@@ -24,13 +50,18 @@ This repo includes the complete `SKILL.md` file with the full 5×10 variable lib
 
 Plus 4 usage modes and Midjourney parameter tuning tips.
 
-## Premium Version (Gumroad)
+## 📦 Premium Package — Go Deeper
 
-For the full tutorial with visual examples, composition rules, and advanced parameter tuning:
+The free SKILL.md gives you the full variable library. The premium guide adds:
 
-**→ https://ninelyflow.gumroad.com/l/udtpit**
+- 🖼️ **Visual examples** for all 50 variables
+- 🎯 **10 curated prompt combos** with output previews
+- ⚙️ **Advanced parameter tuning** (stylize, chaos, aspect ratios)
+- 🏔️ **Composition rules** for landscape depth and scale
 
-Includes 36-page PDF guide + 5 example images.
+**→ [Get the Premium Guide on Gumroad](https://ninelyflow.gumroad.com/l/udtpit)**
+
+36-page PDF + 5 high-res example images. Pay what you want — starts at $0.
 
 ## Use as a Claude/WorkBuddy Skill
 
