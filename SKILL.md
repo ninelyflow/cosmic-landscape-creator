@@ -1,14 +1,11 @@
 ---
 name: cosmic-landscape-creator
 description: >-
-  Cosmic Landscape Creator — Midjourney Variable Prompt System.
-  Generates thousands of unique cosmic landscape prompts by combining 5 variable categories
-  (10 options each). When the user asks to create a cosmic landscape, space scene,
-  nebula wallpaper, alien world, or says "cosmic", "space art", "nebula landscape",
-  "generate a cosmic prompt" — use this skill. It picks options from Nebula Color,
-  Mountain Type, Water Body, Atmosphere, and Art Style to compose a ready-to-use
-  Midjourney /imagine prompt.
-tags: [midjourney, prompt-engineering, cosmic, landscape, ai-art, image-generation, space]
+  Midjourney prompt generator for cosmic landscape, nebula, starry sky, space wallpaper, alien planet, sci-fi scenery.
+  Generates 100,000+ unique cosmic landscape prompts from 5 variable categories (10 options each): Nebula Color, Mountain Type, Water Body, Atmosphere, Art Style.
+  Compatible with Midjourney, DALL-E, Stable Diffusion, Claude, ChatGPT, Cursor, Windsurf, Copilot.
+  Use when the user wants to create cosmic landscape, space scene, nebula art, starry wallpaper, alien world, sci-fi background, generate a prompt, or says "cosmic", "space art", "nebula", "landscape", "壁纸", "星云", "宇宙".
+tags: [midjourney, prompt-engineering, prompt-generator, cosmic, landscape, nebula, space, starry-sky, wallpaper, ai-art, image-generation, dalle, stable-diffusion, sci-fi, alien-planet, claude, chatgpt]
 ---
 
 # Cosmic Landscape Creator — Variable Prompt System
